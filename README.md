@@ -7,7 +7,7 @@ Clase: Redes neuronales 2024-2
 
 Profesor: Verónica Esther Arriola Ríos
 
-En el notebook se describe cada parte del proyecto de manera resumida, véase el reporte para una descripción más completa.
+En el [notebook](proyecto_final_rn.ipynb) se encuentra desarrollado el proyecto y se describe de manera resumida, véase el reporte para una descripción más completa.
 [Reporte de proyecto final](reporte_proyecto_rn.pdf)
 
 Librerías necesarias para el proyecto (todas disponibles mediante pip install):
@@ -20,7 +20,7 @@ Librerías necesarias para el proyecto (todas disponibles mediante pip install):
 - IPython
 - urllib
 
-El dataset modificado se encuentra en el repositorio listo para usarse or lo que no es necesario descargarlo, si lo considera necesario, este puede ser descargado desde Kaggle en el siguiente url:
+El [dataset modificado](malicious_phish_updated.csv) se encuentra en el repositorio listo para usarse por lo que no es necesario descargarlo, si lo considera necesario, este puede ser descargado desde Kaggle en el siguiente url:
 https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
 Para realizar la corrección del dataset mencionadda en el reporte es necesario desgargar el siguiente dataset:
