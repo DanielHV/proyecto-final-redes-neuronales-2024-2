@@ -1,11 +1,11 @@
 # proyecto-final-redes-neuronales-2024-2
 Clasificación de URLs maliciosas mediante red neuronal multicapa.
 
-## Alumno: Hernández Vela Daniel
+Alumno: Hernández Vela Daniel
 
-## Clase: Redes neuronales 2024-2
+Clase: Redes neuronales 2024-2
 
-## Profesor: Verónica Esther Arriola Ríos
+Profesor: Verónica Esther Arriola Ríos
 
 En el notebook se describe cada parte del proyecto de manera resumida, véase el reporte para una descripción más completa.
 [Reporte de proyecto final](reporte_proyecto_rn.pdf)
