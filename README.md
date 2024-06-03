@@ -20,10 +20,10 @@ Librerías necesarias para el proyecto (todas disponibles mediante pip install):
 - IPython
 - urllib
 
-El [dataset modificado](malicious_phish_updated.csv) se encuentra en el repositorio listo para usarse por lo que no es necesario descargarlo, si lo considera necesario, este puede ser descargado desde Kaggle en el siguiente url:
+El [dataset](malicious_phish_updated.csv) se encuentra en el repositorio listo para usarse por lo que no es necesario descargarlo, si lo considera necesario, este puede ser descargado desde Kaggle en el siguiente url:
 https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
-Para realizar la corrección del dataset mencionadda en el reporte es necesario desgargar el siguiente dataset:
+Para realizar la corrección mencionada en el reporte es necesario desgargar el siguiente dataset:
 https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-url-dataset
 
 Una vez descargados, en la carpeta /correccion_dataset se deberá ejecutar el script correccion_datos.py, el cual generará el archivo malicious_phish_updated.csv, este deberá ser movido al directorio base, o bien, ajustado el directorio en el notebook.
